@@ -18,6 +18,7 @@ span{
 }
   
   .text1{
+    
       font-size: 20px;
     color: #348dbf;
     margin: auto;
@@ -92,6 +93,11 @@ span{
     left: 0%;
     padding-left: 10%;
     padding-right: 10%;
+  }
+
+  .text1:hover , .text2:hover,.text3:hover,.text4:hover,.text5:hover{
+    background-color: #348dbf;
+    color: white;
   }
   
   .diamond{
